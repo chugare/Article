@@ -1,0 +1,31 @@
+@misc{徐博2015基于卷积神经网络的短文本分类方法,
+  title={基于卷积神经网络的短文本分类方法},
+  author={徐博 and 王鹏 and 王方圆 and 郝红卫},
+  year={2015},
+}
+@phdthesis{陆宇杰2013中文微博情感分析及其应用,
+  title={中文微博情感分析及其应用},
+  author={陆宇杰},
+  school={华东师范大学},
+  year={2013},
+}
+
+@article{Mccallum1998A,
+  title={A Comparison of Event Models for Naive Bayes Text Classification},
+  author={Mccallum, Andrew and Nigam, Kamal},
+  journal={IN AAAI-98 WORKSHOP ON LEARNING FOR TEXT CATEGORIZATION},
+  volume={62},
+  number={2},
+  pages={41--48},
+  year={1998},
+}
+@article{Tong2002Support,
+  title={Support vector machine active learning with applications to text classification},
+  author={Tong, Simon and Koller, Daphne},
+  journal={Journal of Machine Learning Research},
+  volume={2},
+  number={1},
+  pages={45-66},
+  year={2002},
+}
+
